@@ -1,0 +1,11 @@
+{
+    "name": "anodio/validator",
+    "autoload": {
+        "psr-4": {
+            "Anodio\\Validator\\": "src/"
+        }
+    },
+    "require": {
+        "respect/validation": "^2.3"
+    }
+}
